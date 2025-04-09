@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Streamlit
+.streamlit
+
+# Data storage
+data/
+# Cache files
+cache/
